@@ -1,0 +1,2 @@
+foo1.txt
+foo2.txt
